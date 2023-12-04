@@ -1,0 +1,12 @@
+{
+    "mainTitle": "Welcome Back!",
+    "subTitle": "Expect speed and cheap price with our service",
+    "loginFormTitle": "Login",
+    "emailInputTitle": "Email",
+    "passwordInputTitle": "Password",
+    "keepMeLoggedIn":"Keep me logged in",
+    "forgetPassword": "Forget password",
+    "btnTxt": "Login",
+    "orContinueWith": "Or continue with",
+    "dontHaveAnAccount": "Don’t have an account?"
+}
